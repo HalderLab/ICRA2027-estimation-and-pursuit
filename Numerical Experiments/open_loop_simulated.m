@@ -7,7 +7,6 @@ set(groot,'defaultAxesTickLabelInterpreter','latex');
 set(groot,'defaultLegendInterpreter','latex');
 
 %% ========================================================================
-% BENCHMARK_SINGLE_VARYING_V1_U1
 %
 % Open-loop simulation benchmark:
 %   true v1(t) = 0.13 + 0.03*sin(0.30*t) m/s
